@@ -3,3 +3,6 @@ Trick or Treat 2.0 release notes
 -closed off top entrance to room 2
 - Added many art assets to make the living room more homey and the haunted room scarier
 - Added animaions to Avatar, Items, and props
+
+https://fudgemister.itch.io/trick-or-treat
+https://github.com/BryanPopp/TrickorTreat
